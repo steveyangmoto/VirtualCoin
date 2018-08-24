@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Job Coin</string>
+    <string name="address_hint">Please enter your job coin address</string>
+    <string name="login">Login</string>
+    <string name="login_fail">Please make sure the address entered was correct.</string>
+    <string name="network_error_alert_title">Network Error</string>
+    <string name="network_error_alert_message">Please check your network connection.</string>
+    <string name="insufficient_funds_error">You have insufficient Funds.</string>
+    <string name="unknown_coin_transfer_error">Uknown Error: Coin Send Failed</string>
+    <string name="send_success_title">Success</string>
+    <string name="send_success_message"> was successfully sent to </string>
+    <string name="logout">Logout</string>
+</resources>
